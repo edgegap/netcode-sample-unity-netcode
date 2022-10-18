@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ObjectPool
+  - Wall
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PostProcessing
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Stars
+    uniqueID: 2526430631
+    locked: 0
+  - name: Clouds
+    uniqueID: 11123755
+    locked: 0
+  - name: Planets
+    uniqueID: 3486766241
+    locked: 0
+  - name: Asteroids
+    uniqueID: 1028981695
+    locked: 0
+  - name: Powerups
+    uniqueID: 2561078155
+    locked: 0
+  - name: Blocks
+    uniqueID: 3197741851
+    locked: 0
+  - name: Ship
+    uniqueID: 1115722359
+    locked: 0
