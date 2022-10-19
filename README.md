@@ -8,4 +8,4 @@ This guide was written using `Unity 2021.3.8f1 LTS` on `Windows` to produce all 
 
 ## Tutorial
 
-You can see the [full documentation here](https://docs.edgegap.com/)
+You can see the [full documentation here](https://docs.edgegap.com/docs/sample-projects/unity-netcode-on-edgegap)
